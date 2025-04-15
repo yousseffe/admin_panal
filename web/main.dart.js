@@ -50031,7 +50031,7 @@ s=p}while(true)switch(s){case 0:p=4
 m=A.alF()
 if(m.db)A.ar("Can not emit events to disposed clients")
 s=7
-return A.t(m.gDh().yz(0,"https://laffa-backend.onrender.com/"+a,null,null,null,null,t.z),$async$kX)
+return A.t(m.gDh().yz(0,"https://laffa-pink.vercel.app/"+a,null,null,null,null,t.z),$async$kX)
 case 7:m=c
 q=m
 s=1
@@ -50061,7 +50061,7 @@ s=p}while(true)switch(s){case 0:p=4
 l=A.alF()
 if(l.db)A.ar("Can not emit events to disposed clients")
 s=7
-return A.t(l.gDh().E9("https://laffa-backend.onrender.com/"+a,b,null,null,null,null,null,t.z),$async$mc)
+return A.t(l.gDh().E9("https://laffa-pink.vercel.app/"+a,b,null,null,null,null,null,t.z),$async$mc)
 case 7:n=d
 q=n
 s=1
@@ -50091,7 +50091,7 @@ s=p}while(true)switch(s){case 0:p=4
 m=A.alF()
 if(m.db)A.ar("Can not emit events to disposed clients")
 s=7
-return A.t(m.gDh().Ee(0,"https://laffa-backend.onrender.com/"+a+"/"+c,b,null,null,null,null,null,t.z),$async$qr)
+return A.t(m.gDh().Ee(0,"https://laffa-pink.vercel.app/"+a+"/"+c,b,null,null,null,null,null,t.z),$async$qr)
 case 7:m=e
 q=m
 s=1
@@ -50121,7 +50121,7 @@ s=p}while(true)switch(s){case 0:p=4
 m=A.alF()
 if(m.db)A.ar("Can not emit events to disposed clients")
 s=7
-return A.t(m.gDh().Cm(0,"https://laffa-backend.onrender.com/"+a+"/"+b,null,null,null,null,t.z),$async$nE)
+return A.t(m.gDh().Cm(0,"https://laffa-pink.vercel.app/"+a+"/"+b,null,null,null,null,t.z),$async$nE)
 case 7:m=d
 q=m
 s=1
