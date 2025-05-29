@@ -89,7 +89,12 @@
   "my_sub_categories": "الفئات الفرعية الخاصة بي",
   "Favorites": "المفضلات",
   "select_status": "اختر الحالة",
-  "available_soon": "متوفر قريبًا",
-  "in_stock": "متوفر",
-  "select_status_error": "يرجى اختيار الحالة."
+  "select_status_error": "يرجى اختيار الحالة",
+  "available": "توفر",
+  "available_soon": "يتوفر قريباً",
+  "order_3_days": "طلبية 3 ايام",
+  "order_week": "طلبية أسبوع",
+  "order_10_days": "طلبية 10 أيام",
+  "order_2_weeks": "طلبية أسبوعين",
+  "less_than_3_pieces": "متبقي أقل من 3 قطع"
   }

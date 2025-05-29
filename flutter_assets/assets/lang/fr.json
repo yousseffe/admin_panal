@@ -88,8 +88,13 @@
   "my_sub_categories": "Mes sous-catégories",
    "all_notifications": "Toutes les notifications",
    "Favorites": "Favorites",
-   "select_status": "Sélectionnez le statut",
+   "select_status": "Sélectionner le statut",
+  "select_status_error": "Veuillez sélectionner un statut",
+  "available": "Disponible",
   "available_soon": "Bientôt disponible",
-  "in_stock": "En stock",
-  "select_status_error": "Veuillez sélectionner un statut."
+  "order_3_days": "Commande 3 jours",
+  "order_week": "Commande semaine",
+  "order_10_days": "Commande 10 jours",
+  "order_2_weeks": "Commande 2 semaines",
+  "less_than_3_pieces": "Moins de 3 pièces"
   }

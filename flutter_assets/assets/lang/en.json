@@ -86,9 +86,14 @@
   "my_sub_categories": "My Sub Categories",
   "add_sub_category": "Add Sub Category",
   "Favorites":"Favorites",
-  "select_status": "Select Status",
+  "select_status": "Select status",
+  "select_status_error": "Please select a status",
+  "available": "Available",
   "available_soon": "Available Soon",
-  "in_stock": "In Stock",
-  "select_status_error": "Please select a status."
+  "order_3_days": "Order 3 Days",
+  "order_week": "Order Week",
+  "order_10_days": "Order 10 Days",
+  "order_2_weeks": "Order 2 Weeks",
+  "less_than_3_pieces": "Less Than 3 Pieces"
 
   }
